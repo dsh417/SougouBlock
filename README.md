@@ -47,7 +47,7 @@
 以**管理员身份**打开 PowerShell，执行：
 
 ```powershell
-powershell.exe -ExecutionPolicy Bypass -File ".\SogouBlock.ps1"
+powershell.exe ".\SogouBlock.ps1"
 ```
 
 ---
