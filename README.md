@@ -116,20 +116,4 @@ Summary:
 5. 停止 DNS Client 服务后写入 Hosts，避免文件占用冲突
 6. 枚举并禁用所有搜狗相关 Windows 服务和计划任务
 
----
-
-## 投诉渠道
-
-如需向监管部门投诉搜狗输入法违规收集个人信息：
-
-- **工信部**：[https://hlwyw.miit.gov.cn](https://hlwyw.miit.gov.cn)（APP违规专项）
-- **网信办**：[https://www.12377.cn](https://www.12377.cn)
-- **12315**：[https://www.12315.cn](https://www.12315.cn)
-
-投诉分类选择：`个人信息保护 → 收集使用个人信息 → 超范围收集个人信息`
-
----
-
-## License
-
 MIT
